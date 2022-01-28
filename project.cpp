@@ -1,4 +1,3 @@
-// C++ program for implementation of RR scheduling
 #include <iostream>
 #include <string>
 #include <bits/stdc++.h>
